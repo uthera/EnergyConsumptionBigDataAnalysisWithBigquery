@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "energystatistics",
+  "private_key_id": "7b2445f1b089f6a9231d70708c18e47e587cee90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBEWhmFK2tJmv4\njqx5khjWxAUcTBJVwC2ym3KFw/LRcJYwN2UMlbpHlmOe9mBXqnJhe1IRoY30RXG9\nWROVJfce49dYFsRbooNOCZes4zWeXkorSW+2zstAb7V9Xmd/Vq4WnBHsnbOUohkC\nvNFU+kSJU7IIqj2HYyYToc/MQ0mC5w931c4kBg2erC8/iq06ZN69wyMEmSTZkMpg\nufGDyb6YBjnDFk7Py0v0njVOATFr4qxdmQDuzTDVnI3jCiH+FsfvW+IpJ7kDztEN\nrxHWpoJhzahYbUkTbvqC+FrW9XKj+cjvYNDxGbIuVFLIMri/cI6mgO4REZi8kINK\ntAyWmwJPAgMBAAECggEAHAta89ZgcqdYcFl2ejjw52QVLfVq2w6NqhpkZJkq+1Cf\nBaVLm1a1y/zvaZbLiyW/dE4v2fnH9J87FKW3b3x9TKe3Ocd3gawLO1mvW4tW2DNF\naMuZBkqRluw4cQaL2CEPgUntsfDSYMO5sv5vFdM+A138nWpFLRZc4JB/mQx+cBy+\n4mrCg2AWmXlu1Wz8jobcDxhrHlOAU5LeFdRdssCCOpq44xRv4XWRUq4A4ELU0ePj\n3zykMoDwj7XUXFWuNOnM/sAeVn142+d02M8lqH+QQqI1Ud8ANke3PK5oxgTloSlM\nExgS0IPEejB1kRwHUmiLLJ0nTqOslKCkQ4XAR1Y58QKBgQDh1Cd5tzjJvuKPS3am\ndAWLA6Qd9WqPRzqvcTWJQG0VTQcJIiIIjKpemCfuG4UhN0tR0bTuEKn4mR1uvQ0X\n8chm6+BZQgoHqD9TFTkEPofTjd2MdzZFl5+4U69pgGvkdFWrmfJu7V06iU2tyWVn\nxCFJh8Z5BPvvL1MYc9zSKcWDyQKBgQDa3MOBH9SgCzU10NGvY9R6equ6s6A/M9Mi\nRrcA1aEZ50QL34N0tPwnd602PUasEXgxTyD2d1hIwdnX6GoPwpGlgoZcXNyme7k1\nMckSuN4z/825gf3ias6ZZtf+jFtB4kH4slsfNXF8DAy80KYYvUh3+hoc9KBomaPV\nM0/aD5PxVwKBgB1qvm2rgVk+ZVLXOLB8IpC2O7WvV18snydlbtzfKJaCvyzgZmCI\nulSyK1ln+lKWWlhhIdl1ED8S6vOW6tK4qytFBKd748SVlRIkjJXR822KaFa43Lf6\nBVNEi3AJy4Qp51MALcVnZCKQ6i5+MphuwwtKBX+UN6Ezn/ZqeVRjHpiJAoGBAI7T\n/V45+JeNWOdK5FxyaMqZXZLVAKHeX04CGhGYWK8/5n9dGTvDlL7o8gfwiztllyuO\nuTM/BUVOBK1LRlQMpOH/QVHrZC/dlCtr1w25yYDj0kza0WW+UB96J0E+NZvUXTtA\nogjG5s2OS425GHwSosVxWTNGTZyVj35mIxlqiyC3AoGAbsojQ1sx27a22kxbcZ9p\n5dXIVe7yNkeFRUHkTrsqGYN233UDme5Yc4r0/vlMQMiuhvQ8WTKrmnQCuZT4Ys/1\nOVNbCHRDbqAvayt6yXv8LeVAzULpNLyM5TUwEdrkYBRMqKNZqJhkxLESo3DDCIP7\nw5XaEUKe6Q8BkkH2NfaA+yI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "node-service@energystatistics.iam.gserviceaccount.com",
+  "client_id": "109655174554931677124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/node-service%40energystatistics.iam.gserviceaccount.com"
+}
